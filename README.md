@@ -19,7 +19,7 @@
 ## 🗂️ Project Structure
 
 ```
-profito-landing-page/
+Profito-Business-Landing-Page/
 ├── index.html             # Main HTML file
 ├── Styles/
 │   └── style.css          # All styling rules
@@ -36,10 +36,10 @@ profito-landing-page/
 ## 🚀 Getting Started
 
 ```bash
-cd profito-landing-page && start index.html
+cd Profito-Business-Landing-Page && start index.html
 ```
 
-> On macOS/Linux, use: `cd profito-landing-page && open index.html`
+> On macOS/Linux, use: `cd Profito-Business-Landing-Page && open index.html`
 
 ---
 
