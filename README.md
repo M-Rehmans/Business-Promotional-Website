@@ -53,7 +53,7 @@ _Soon...._
 
 **Rehman Rafi**  
 🌐 [rehman-dev.netlify.app](https://rehman-dev.netlify.app/)  
-🔗 [LinkedIn](www.linkedin.com/in/muhammad-rehman-rafi-944418257)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-rehman-rafi-944418257/)  
 📫 Feel free to connect or collaborate!
 
 ---
