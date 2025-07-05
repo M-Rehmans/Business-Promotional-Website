@@ -170,6 +170,10 @@ nav a {
     flex-direction: column;
 }
 
+.hero_content h1{
+    font-size:3rem;
+}
+
 /* Features Section */
 #Features {
     padding: 50px;
